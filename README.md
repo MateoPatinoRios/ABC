@@ -5,3 +5,4 @@
   - Anidadas
 - Acepta latex: $sum_{i=1}^{n} x_i$
 - Para que pueda leerlo tiene que tener .md
+-Insertar imagen {[key],''}
