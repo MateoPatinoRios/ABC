@@ -5,4 +5,7 @@
   - Anidadas
 - Acepta latex: $sum_{i=1}^{n} x_i$
 - Para que pueda leerlo tiene que tener .md
--Insertar imagen {[key],''}
+-Insertar imagen:
+
+
+![alt text](https://github.com/MateoPatinoRios/ABC/blob/main/Paul_Ehrenfest_(2).jpg)
